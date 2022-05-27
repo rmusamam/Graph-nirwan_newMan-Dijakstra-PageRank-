@@ -1,0 +1,44 @@
+[33mcommit d772a09e4e17928d24dc99f1285a8338e16804fa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 3537a32 56b93f3
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Fri May 27 22:26:21 2022 +0500
+
+    changing checked
+
+[33mcommit 3537a32da6437839a63e8bde565a16115a522588[m
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Fri May 27 22:23:06 2022 +0500
+
+    add exclamatory sign in starting of Heading 1
+
+[33mcommit 56b93f370152090e2f338a172017e3df8e4f998b[m
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Fri May 27 22:21:22 2022 +0500
+
+    add exclamatory sign
+
+[33mcommit c84047c1bb9b5dbda8507d8afdbc229c263087a0[m
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Fri May 27 22:15:16 2022 +0500
+
+    add h3 heading
+
+[33mcommit 8a3b1af4ebf297fd23dad36e7491d435d9ec9ad0[m
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Fri May 27 18:58:17 2022 +0500
+
+    Add H2 heading and change the content of H1
+    
+    Just practicing for understanding the github
+
+[33mcommit 84df9e76a0db4c15688f2afc9c74e5983b366af6[m
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Fri May 27 18:48:15 2022 +0500
+
+    heading Added
+
+[33mcommit 48537c4bc41be443b18fe7361331490a2ce5b41d[m
+Author: Muhammad Usama <89479745+rmusamam@users.noreply.github.com>
+Date:   Sun May 22 12:47:37 2022 +0500
+
+    practising to save data on git--- Added hello.html
